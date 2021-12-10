@@ -1,8 +1,5 @@
 Stephanie M. Ramos Camacho
 
-Enlace para accesar la pagina web: 
-	https://ada.uprrp.edu/~stephanie.ramoscamacho/DB/skylights/home.php
-
 Descripcion de cada script:
 
 home.php
